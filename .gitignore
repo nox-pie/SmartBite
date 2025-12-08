@@ -1,5 +1,2 @@
 models/*.pkl
-*.parquet
-
-models/*.pkl
 data/*.parquet
